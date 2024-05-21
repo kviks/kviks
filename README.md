@@ -9,9 +9,8 @@ For code i'm use:
 [![Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 
 # Contact me:
-You can write me in Telegram, Discord
-``
+` You can write me in Telegram or Discord `
 # TG: @kviksmods
-# Discord: _kviks ``
+# Discord: _kviks
 
-
+` Thanks for reading this, have a nice day, bye! `
