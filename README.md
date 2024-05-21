@@ -1,4 +1,4 @@
-# Hello everyone, my name is Kviks.
+## Hello everyone, my name is Kviks.
 - Welcome to my README
 
 # About Me:
