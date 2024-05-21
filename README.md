@@ -1,6 +1,6 @@
 ## Hello everyone, my name is Kviks.
 ` Welcome to my README `
-` idk `
+` idk what else i can say :P `
 
 # About Me:
 I'm study:      
