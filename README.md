@@ -10,5 +10,8 @@ For code i'm use:
 
 # Contact me:
 You can write me in Telegram, Discord
+``
 # TG: @kviksmods
-# Discord: _kviks
+# Discord: _kviks ``
+
+
