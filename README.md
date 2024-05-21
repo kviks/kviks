@@ -1,7 +1,6 @@
 ## Hello everyone, my name is Kviks.
-- Welcome to my README
-- xD
-` I'm working in "In Crish's Universe" `
+` Welcome to my README `
+` idk `
 
 # About Me:
 I'm study:      
