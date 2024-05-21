@@ -2,7 +2,7 @@
 - Welcome to my README
 
 # About Me:
-I'm study: \n
+I'm study:      
 [![My Skills](https://skillicons.dev/icons?i=haxe,lua&theme=dark)](https://skillicons.dev)
 
 
