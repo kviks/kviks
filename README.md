@@ -11,7 +11,7 @@ For code i'm use:
 
 # Contact me:
 ` You can write me in Telegram or Discord `
-# Telegram: @kviksmods and @officshs
+# Telegram: @kviksmods
 # Discord: _kviks
 
 ` Thanks for reading this, have a nice day, bye! `
