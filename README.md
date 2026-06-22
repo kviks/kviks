@@ -3,7 +3,7 @@
 ` idk what else i can say :P `
 
 # About Me:
-I'm study:      
+Fav:      
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs&theme=dark)](https://skillicons.dev)
 
 For code i'm use:         
