@@ -4,8 +4,8 @@
 
 # About Me:
 I'm study:      
-[![My Skills](https://skillicons.dev/icons?i=haxe,lua&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs&theme=dark)](https://skillicons.dev)
+\\
 For code i'm use:         
 [![Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 
